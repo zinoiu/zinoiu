@@ -31,16 +31,6 @@ Open to: internships, collaboration, and feedback on my code
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,mongodb,html,css,tailwind,kotlin,firebase,git" alt="My tech stack" />
 </a>
 
-## GitHub stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zinoiu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="zinoiu's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinoiu&layout=compact&theme=radical&hide_border=true" alt="Most used languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=zinoiu&theme=radical&hide_border=true" alt="GitHub streak" />
-</div>
-
----
 
 Thanks for stopping by. If you're hiring, want to team up on a project, or want to talk security, get in touch. A ⭐ on my repos is always appreciated.
 
