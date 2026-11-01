@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B;I%27m+zinoiu;Aspiring+Cybersecurity+Analyst;Python+%7C+Java+%7C+React+Developer)](https://github.com/zinoiu)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B;I%27m+Einjhel;Aspiring+Cybersecurity+Analyst;Python+%7C+Java+%7C+React+Developer)](https://github.com/zinoiu)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=zinoiu&fontSize=60&fontColor=ffffff&animation=twinkling" alt="" width="100%" />
 
