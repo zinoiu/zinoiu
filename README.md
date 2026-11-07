@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CDB6F7&height=120&section=header" alt="" width="100%" />
-
 # Einjhel Romanillos
 
 **BSIT Computer Security Student · Aspiring Cybersecurity Analyst**
@@ -17,7 +13,7 @@ I'm a third-year BSIT student majoring in Computer Security at PHINMA University
 - **Studying:** BS Information Technology, major in Computer Security (3rd year)
 - **Learning:** networking fundamentals, the Linux command line, and hands-on security practice
 - **Building:** none as of the moment
-- **Certified:** 15 certificates from Fortinet, Cisco Networking Academy, and Appkademiya
+- **Certified:** 15 verifiable certificates from Fortinet, Cisco Networking Academy, and Appkademiya
 - **Open to:** internships, collaboration, and feedback on my code
 - **Portfolio:** [romanillos-portfolio.vercel.app](https://romanillos-portfolio.vercel.app/)
 
@@ -34,17 +30,21 @@ I'm a third-year BSIT student majoring in Computer Security at PHINMA University
 
 ## Certificates
 
-**Highlight:** Appkademiya Certified Cybersecurity Professional ([verify](https://appkademiya.online/verify/CERT-CCP-CYBERSECURITY-PROFESSIONAL-20261019-CDA29C086360))
+Every credential below links to its official verification page.
+
+**Highlight:** [Appkademiya Certified Cybersecurity Professional](https://appkademiya.online/verify/CERT-CCP-CYBERSECURITY-PROFESSIONAL-20261019-CDA29C086360) · Certificate no. `CERT-CCP-CYBERSECURITY-PROFESSIONAL-20261019-CDA29C086360`
 
 <details>
 <summary><b>Fortinet</b> (6)</summary>
 
 <br>
 
-- NSE 1, NSE 2, and NSE 3 Certified in Cybersecurity
-- Cybersecurity and Cloud Fundamentals 1.0
-- Introduction to the Next Generation Firewall 1.0
-- FortiGate 7.6 Operator
+- [Fortinet NSE 1 Certified in Cybersecurity](https://www.credly.com/earner/earned/badge/b48c4cce-8527-4ecf-873b-7a00f586a51a)
+- [Fortinet NSE 2 Certified in Cybersecurity](https://www.credly.com/earner/earned/badge/08cec1df-d837-43b7-9aa0-4ad78d0d287e)
+- [Fortinet NSE 3 Certified in Cybersecurity](https://www.credly.com/earner/earned/badge/968603b8-31c3-4e19-b5fe-61464dd7ddea)
+- [Fortinet Cybersecurity and Cloud Fundamentals 1.0](https://www.credly.com/earner/earned/badge/68da8eb1-b786-4007-ab5c-38021276719a)
+- [Introduction to the Next Generation Firewall 1.0](https://www.credly.com/earner/earned/badge/6ea6620f-b271-4b46-8ddc-a8bb122f85ed)
+- [Fortinet FortiGate 7.6 Operator](https://www.credly.com/earner/earned/badge/e4eb4724-cb3f-4cba-a285-8bc60f57bb04)
 
 </details>
 
@@ -53,17 +53,16 @@ I'm a third-year BSIT student majoring in Computer Security at PHINMA University
 
 <br>
 
-- Introduction to Cybersecurity
-- Cyber Threat Management
-- Networking Basics
-- Getting Started with Cisco Packet Tracer
-- Python Essentials 1 and 2
-- HTML Essentials
-- CSS Essentials
+- [Introduction to Cybersecurity](https://www.credly.com/badges/07dd1f50-d8ec-44b5-a7c4-17d70ff44cff/public_url)
+- [Cyber Threat Management](https://www.credly.com/badges/e8b0b4ba-44f1-45ac-8fce-6aa3287b93f7)
+- [Networking Basics](https://www.credly.com/badges/5df0b6d2-9f10-4ea3-990f-aeda25759240)
+- [Getting Started with Cisco Packet Tracer](https://www.netacad.com/certificates/?issuanceId=0e72fc8d-f3b4-4f3e-91ac-783d18d2e6d8)
+- [Python Essentials 1](https://www.credly.com/badges/408a68bb-9b50-4d10-a1ee-2f53bd50a9b6/public_url)
+- [Python Essentials 2](https://www.credly.com/badges/d9b56d47-ef02-946f-8e980a5bd682/public_url)
+- [HTML Essentials](https://www.credly.com/badges/f46ef8a2-6b0d-4908-916c-2281e3cface7/public_url)
+- [CSS Essentials](https://www.credly.com/badges/3cd79c35-7766-4da1-bcaf-4c209137305f)
 
 </details>
-
-Links to every credential are on my [portfolio](https://romanillos-portfolio.vercel.app/#portfolio).
 
 ## Tech stack and security
 
