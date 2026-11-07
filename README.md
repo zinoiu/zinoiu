@@ -1,20 +1,25 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6D3FC7&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+%F0%9F%91%8B;I%27m+Einjhel+Romanillos;BSIT+Computer+Security+Student;Aspiring+Cybersecurity+Analyst)](https://github.com/zinoiu)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CDB6F7&height=120&section=header" alt="" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CDB6F7&height=200&section=header&text=Einjhel%20Romanillos&fontSize=48&fontColor=2A1A4D&animation=twinkling" alt="" width="100%" />
+# Einjhel Romanillos
+
+**BSIT Computer Security Student · Aspiring Cybersecurity Analyst**
+
+🌐 **[View my portfolio → romanillos-portfolio.vercel.app](https://romanillos-portfolio.vercel.app/)**
 
 </div>
 
 ## About me
 
-I'm a third-year BSIT student majoring in Computer Security at PHINMA University of Pangasinan, and an aspiring cybersecurity analyst who builds apps, games, and sites. All of my projects so far were group projects, from a React and Express campus delivery platform (**Upang Delivers**) to a budgeting and investing app for students (**InvestEd**).
+I'm a third-year BSIT student majoring in Computer Security at PHINMA University of Pangasinan, and an aspiring cybersecurity analyst. I build apps, games, and sites, so far in group projects, from a campus delivery platform (**Upang Delivers**) to a budgeting app for students (**InvestEd**).
 
 - **Studying:** BS Information Technology, major in Computer Security (3rd year)
 - **Learning:** networking fundamentals, the Linux command line, and hands-on security practice
 - **Building:** none as of the moment
 - **Certified:** 15 certificates from Fortinet, Cisco Networking Academy, and Appkademiya
 - **Open to:** internships, collaboration, and feedback on my code
+- **Portfolio:** [romanillos-portfolio.vercel.app](https://romanillos-portfolio.vercel.app/)
 
 ## Projects
 
@@ -29,30 +34,47 @@ I'm a third-year BSIT student majoring in Computer Security at PHINMA University
 
 ## Certificates
 
-- **Appkademiya:** Certified Cybersecurity Professional ([verify](https://appkademiya.online/verify/CERT-CCP-CYBERSECURITY-PROFESSIONAL-20261019-CDA29C086360))
-- **Fortinet:** NSE 1, NSE 2, and NSE 3 Certified in Cybersecurity, Cybersecurity and Cloud Fundamentals 1.0, Introduction to the Next Generation Firewall 1.0, FortiGate 7.6 Operator
-- **Cisco Networking Academy:** Introduction to Cybersecurity, Cyber Threat Management, Networking Basics, Getting Started with Cisco Packet Tracer, Python Essentials 1 and 2, HTML Essentials, CSS Essentials
+**Highlight:** Appkademiya Certified Cybersecurity Professional ([verify](https://appkademiya.online/verify/CERT-CCP-CYBERSECURITY-PROFESSIONAL-20261019-CDA29C086360))
 
-Links to every credential are on my [portfolio](https://zinoiu.github.io/#certificates).
+<details>
+<summary><b>Fortinet</b> (6)</summary>
 
-## Let's connect
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-zinoiu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinoiu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zinoiu.github.io-6D3FC7?style=for-the-badge)](https://zinoiu.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Einjhel_Romanillos-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/romanillos-einjhel)
-[![Email](https://img.shields.io/badge/Email-romanillos.einjhel@gmail.com-CDB6F7?style=for-the-badge&labelColor=2A1A4D)](mailto:romanillos.einjhel@gmail.com)
+- NSE 1, NSE 2, and NSE 3 Certified in Cybersecurity
+- Cybersecurity and Cloud Fundamentals 1.0
+- Introduction to the Next Generation Firewall 1.0
+- FortiGate 7.6 Operator
+
+</details>
+
+<details>
+<summary><b>Cisco Networking Academy</b> (8)</summary>
+
+<br>
+
+- Introduction to Cybersecurity
+- Cyber Threat Management
+- Networking Basics
+- Getting Started with Cisco Packet Tracer
+- Python Essentials 1 and 2
+- HTML Essentials
+- CSS Essentials
+
+</details>
+
+Links to every credential are on my [portfolio](https://romanillos-portfolio.vercel.app/#portfolio).
 
 ## Tech stack and security
 
-![Computer Security](https://img.shields.io/badge/Computer_Security-BSIT_3rd_year-6D3FC7?style=flat-square)
-![Fortinet](https://img.shields.io/badge/Fortinet-NSE_1%2C_2_%26_3-B072FF?style=flat-square)
-![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-8_courses-1BA0D7?style=flat-square)
-![Appkademiya](https://img.shields.io/badge/Appkademiya-Certified_Cybersecurity_Professional-CDB6F7?style=flat-square&labelColor=2A1A4D)
+- **Focus:** Computer Security (BSIT, 3rd year)
+- **Security training:** Fortinet NSE 1, 2 and 3 · Cisco Cybersecurity courses · Appkademiya Certified Cybersecurity Professional
+- **Languages and tools:** Python, Java, Kotlin, JavaScript, PHP, HTML, CSS, Tailwind, React, Vite, Express, MongoDB, MySQL, Firebase, Git, GitHub
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,html,css,tailwind,react,vite,express,mongodb,php,mysql,firebase,git,github&theme=light&perline=8" alt="My tech stack" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,html,css,tailwind,react,vite,express,mongodb,php,mysql,firebase,git,github&theme=light&perline=8" alt="Icons for Python, Java, Kotlin, JavaScript, HTML, CSS, Tailwind, React, Vite, Express, MongoDB, PHP, MySQL, Firebase, Git, and GitHub" />
 
-Thanks for stopping by. If you're hiring, want to team up on a project, or want to talk security, get in touch. A ⭐ on my repos is always appreciated.
+## Let's connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CDB6F7&height=120&section=footer" alt="" width="100%" />
+[Portfolio](https://romanillos-portfolio.vercel.app/) · [GitHub](https://github.com/zinoiu) · [LinkedIn](https://www.linkedin.com/in/romanillos-einjhel) · [Email](mailto:romanillos.einjhel@gmail.com)
+
+Thanks for stopping by. If you're hiring, want to team up on a project, or want to talk security, get in touch.
